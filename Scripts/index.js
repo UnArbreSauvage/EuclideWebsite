@@ -1,0 +1,1 @@
+const page = document.querySelector("body");
